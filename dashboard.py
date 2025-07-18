@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 st.set_page_config(page_title="Upload Publik", layout="centered")
-st.title("📁 Upload File Publik")
+st.title("📁 Dashboard Data Tanaman 🌾")
 
 hari_dict = {
     "Monday": "Senin", "Tuesday": "Selasa", "Wednesday": "Rabu",
